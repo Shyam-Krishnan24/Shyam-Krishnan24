@@ -1,24 +1,18 @@
-💫 About Me:
-I’m currently working in Data Analytics and Full Stack Development, where I enjoy turning raw data into meaningful insights and building applications that make an impact.
+# 💫 About Me:
+I’m currently working in Data Analytics and Full Stack Development, where I enjoy turning raw data into meaningful insights and building applications that make an impact.<br><br>My primary focus is Data Analytics, and I continuously strengthen my analytical thinking, problem-solving, and visualization skills. Alongside that, I work on development projects to expand my full stack capabilities.<br><br>I’m currently learning React JS, Advanced Python for Data Science, and Data Structures & Algorithms (DSA) to deepen both my development and problem-solving expertise.<br><br>Technical Skills:<br>Excel, Power BI, Python, SQL, JavaScript, HTML, CSS, and Java (basics)<br><br>Tools I Use:<br>Excel, Power BI, Canva, VS Code, Jupyter Notebook, Google Colab, Tableau<br><br>I’m actively looking for internship opportunities where I can apply my skills, contribute to real-world projects, and continue growing as a data-driven developer.<br><br>Fun Fact: I love playing chess — it’s my favorite way to sharpen strategic thinking. Just like in data analytics, I enjoy analyzing patterns, planning several moves ahead, and finding the smartest solution on the board. ♟️
 
-My primary focus is Data Analytics, and I continuously strengthen my analytical thinking, problem-solving, and visualization skills. Alongside that, I work on development projects to expand my full stack capabilities.
 
-I’m currently learning React JS, Advanced Python for Data Science, and Data Structures & Algorithms (DSA) to deepen both my development and problem-solving expertise.
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@r.shyaamkrishnan24) 
 
-Technical Skills:
-Excel, Power BI, Python, SQL, JavaScript, HTML, CSS, and Java (basics)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shyam-Krishnan24&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Tools I Use:
-Excel, Power BI, Canva, VS Code, Jupyter Notebook, Google Colab, Tableau
+---
+[![](https://visitcount.itsvg.in/api?id=Shyam-Krishnan24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I’m actively looking for internship opportunities where I can apply my skills, contribute to real-world projects, and continue growing as a data-driven developer.
-
-Fun Fact: I love playing chess — it’s my favorite way to sharpen strategic thinking. Just like in data analytics, I enjoy analyzing patterns, planning several moves ahead, and finding the smartest solution on the board. ♟️
-
-🌐 Socials:
-Mastodon
-
-💻 Tech Stack:
-HTML5 Java JavaScript Python AWS React React Native OpenCV MySQL SQLite Canva Figma Matplotlib NumPy Pandas TensorFlow GitHub GitHub Actions Docker
-
-📊 GitHub Stats:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
