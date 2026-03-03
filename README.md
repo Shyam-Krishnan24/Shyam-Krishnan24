@@ -147,8 +147,10 @@ When I’m not analyzing data or building applications, you’ll probably find m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🧠 LeetCode Stats
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam24?theme=dark&font=Baloo&ext=contest)
+
+# Hackerrank Stats
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alpharsk7)
 
 # 📈 GitHub Contribution Graph
 
