@@ -149,7 +149,7 @@ When I’m not analyzing data or building applications, you’ll probably find m
 # 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam24?theme=dark&font=Baloo&ext=contest)
 
-# Hackerrank Stats
+# HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alpharsk7)
 
 # 📈 GitHub Contribution Graph
