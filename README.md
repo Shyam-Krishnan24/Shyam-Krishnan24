@@ -107,7 +107,7 @@ When I’m not analyzing data or building applications, you’ll probably find m
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Rhttps://www.linkedin.com/in/r-shyaam-krishnan-232282293/)) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/R-SHYAAM-KRISHNAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.shyamkrishnan24@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Rhttps://www.linkedin.com/in/r-shyaam-krishnan-232282293/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/R-SHYAAM-KRISHNAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.shyamkrishnan24@gmail.com) 
 
 # 💻 Tech Stack:
 
