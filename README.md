@@ -149,4 +149,8 @@ When I’m not analyzing data or building applications, you’ll probably find m
 ---
 [![](https://visitcount.itsvg.in/api?id=Shyam-Krishnan24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Contact Me
+
+- 📧 **Email:** [r.shyamkrishnan24@gmail.com](mailto:r.shyamkrishnan24@gmail.com)
+- 💼 **LinkedIn:** [R. SHYAAM KRISHNAN](https://www.linkedin.com/in/r-shyaam-krishnan)
+- 💻 **GitHub:** [Shyam-Krishnan24](https://github.com/Shyam-Krishnan24)
