@@ -61,10 +61,10 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## 💡 Soft Skills
 
-### Problem-Solving
-### Critical Thinking
-### Team Collaboration
-### Communication
+ Problem-Solving
+ Critical Thinking
+ Team Collaboration
+ Communication
 
 ## 🔧 Development Tools & Platforms  
 
