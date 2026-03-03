@@ -25,7 +25,7 @@ With a strong interest in both full stack development and data analytics, I appr
 - SQL  
 - SQL Server  
 - MangoDB (Learning)
-- 
+  
 ### 🛠️ Tools  
 - Jupyter Notebook  
 - Google Colab
