@@ -61,7 +61,7 @@ With a strong interest in both full stack development and data analytics, I appr
 
 - Build and explore full stack web development projects (currently in the learning stage).  
 - Develop interactive dashboards and perform data analysis to extract meaningful insights.  
-- Designed an intermediate-level Excel interactive dashboard analyzing job market trends, documented in my repository [**Job_Market_Analysis-PX--001-**] (https://github.com/Shyam-Krishnan24/Job_Market_Analysis-PX--001-)
+- Designed an intermediate-level Excel interactive dashboard analyzing job market trends, documented in my repository [Job_Market_Analysis-PX--001-] (https://github.com/Shyam-Krishnan24/Job_Market_Analysis-PX--001-)
 - Work with SQL and SQL Server for data querying and structured data management.  
 - Apply a problem-solving mindset to both development and analytics tasks.  
 - Continuously improve my skills in React.js and Node.js to strengthen full stack capabilities.  
