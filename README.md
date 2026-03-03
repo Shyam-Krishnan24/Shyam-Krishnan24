@@ -146,6 +146,10 @@ When I’m not analyzing data or building applications, you’ll probably find m
 ![](https://nirzak-streak-stats.vercel.app/?user=Shyam-Krishnan24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam24?theme=dark&font=Baloo&ext=contest)
+
 # 📈 GitHub Contribution Graph
 
 ![Shyaam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyam-Krishnan24&theme=react-dark)
