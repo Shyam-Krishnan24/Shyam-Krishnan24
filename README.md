@@ -15,28 +15,26 @@ With a strong interest in both full stack development and data analytics, I appr
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages  
-- Python  
-- SQL  
-- JavaScript  
-- Java (Basics)  
-
-### 📚 Python Libraries  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- TensorFlow  
+- Languages :Python, SQL ,JavaScript, Java (Basics)    
 
 ### ⚙️ Frameworks & Libraries  
-- React.js (Currently Learning)  
-- Node.js (Currently Learning)  
+- React.js (Currently Learning)  Node.js (Currently Learning)
+- Pandas  ,NumPy ,Matplotlib  ,Scikit-learn  ,TensorFlow 
 
 ### 🗃️ Databases  
 - SQL  
 - SQL Server  
-
----
-
+- MangoDB (Learning)
+- 
+### 🛠️ Tools  
+- Jupyter Notebook  
+- Google Colab
+- Visual Studio Code
+- Pycharm
+- Github
+- Figma
+- Canva
+  
 ## 📊 Data Analytics & Visualization  
 
 ### 📈 Visualization Tools  
@@ -47,31 +45,16 @@ With a strong interest in both full stack development and data analytics, I appr
 ### 📊 Analytics Skills  
 - Data Cleaning & Transformation  
 - Dashboard Creation  
-- Job Market Trend Analysis  
 - Basic Statistical Analysis  
 - Machine Learning Fundamentals  
-
-### 🛠️ Tools  
-- Jupyter Notebook  
-- Google Colab  
-
 ---
 
 ## 💡 Soft Skills
 
-Problem-Solving
-Critical Thinking
-Team Collaboration
-Communication
-
-## 🔧 Development Tools & Platforms  
-
-- VS Code  
-- PyCharm  
-- Git & GitHub  
-- Figma  
-- Canva  
-
+- Problem-Solving
+- Critical Thinking
+- Team Collaboration
+- Communication
 ---
 
 ## 🚀 What I Do  
