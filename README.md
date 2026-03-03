@@ -1,7 +1,5 @@
-# 💫 About Me:
 
-## 👋 Hi, I'm R. Shyaam Krishnan  
-### Data Analyst | Aspiring Full Stack Developer  
+# 👋 Hi, I'm R. Shyaam Krishnan! – Data Analyst | Aspiring Full-Stack Engineer
 🚀 Open to Internships  
 
 ---
