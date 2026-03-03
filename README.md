@@ -1,5 +1,119 @@
 # 💫 About Me:
-👋 Hi, I'm R. Shyaam Krishnan<br>Data Analyst | Aspiring Full Stack Developer<br><br>🚀 Open to Internships<br><br>🧑‍💻 Profile Summary<br><br>I am a Data Analyst and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.<br><br>With a strong interest in both full stack development and data analytics, I approach every project with a problem-solving mindset and a commitment to writing clean, maintainable code. I strive to build applications that are not only functional, but also meaningful and driven by data-backed insights.<br><br>🛠️ Technical Skills<br>💻 Programming Languages<br><br>Python<br><br>SQL<br><br>JavaScript<br><br>Java (Basics)<br><br>📚 Python Libraries<br><br>Pandas<br><br>NumPy<br><br>Matplotlib<br><br>Scikit-learn<br><br>TensorFlow<br><br>⚙️ Frameworks & Libraries<br><br>React.js (Currently Learning)<br><br>Node.js (Currently Learning)<br><br>🗃️ Databases<br><br>SQL<br><br>SQL Server<br><br>📊 Data Analytics & Visualization<br>📈 Visualization Tools<br><br>Power BI<br><br>Tableau<br><br>Microsoft Excel<br><br>📊 Analytics Skills<br><br>Data Cleaning & Transformation<br><br>Dashboard Creation<br><br>Job Market Trend Analysis<br><br>Basic Statistical Analysis<br><br>Machine Learning Fundamentals<br><br>🛠️ Tools<br><br>Jupyter Notebook<br><br>Google Colab<br><br>🔧 Development Tools & Platforms<br><br>VS Code<br><br>PyCharm<br><br>Git & GitHub<br><br>Figma<br><br>Canva<br><br>🚀 What I Do<br><br>Build and explore full stack web development projects (currently in the learning stage).<br><br>Develop interactive dashboards and perform data analysis to extract meaningful insights.<br><br>Designed an intermediate-level Excel interactive dashboard analyzing job market trends, documented in my repository Job_Market_Analysis-PX--001-.<br><br>Work with SQL and SQL Server for data querying and structured data management.<br><br>Apply a problem-solving mindset to both development and analytics tasks.<br><br>Continuously improve my skills in React.js and Node.js to strengthen full stack capabilities.<br><br>🏆 Achievements & Certifications<br>🥇 Achievements<br><br>Winner of 4 Symposium Technical Events:<br><br>Front-End Website Designing<br><br>Dashboard Building<br><br>Technical Quiz<br><br>Tech-Based Competitive Event<br><br>Citation Certificate for performance in Kruu Grasp Hackathon<br><br>Coordinator of the Data Science Club<br><br>Pursuing UG Honours Degree<br><br>📜 Certifications<br><br>SkillRack – Python Certification<br><br>SkillRack – SQL Certification<br><br>LetsUpgrade – Excel Certification<br><br>IBM – Python for Data Science<br><br>IBM – Data Fundamentals<br><br>NPTEL – Software Testing<br><br>🌱 Currently Learning<br><br>React.js<br><br>Node.js<br><br>Data Structures & Algorithms (DSA)<br><br>Advanced Python for Data Science<br><br>♟️ Fun Fact<br><br>When I’m not analyzing data or building applications, you’ll probably find me playing chess. I enjoy thinking several moves ahead, identifying patterns, and making strategic decisions — the same mindset I apply when solving problems in data analytics and software development.
+
+## 👋 Hi, I'm R. Shyaam Krishnan  
+### Data Analyst | Aspiring Full Stack Developer  
+🚀 Open to Internships  
+
+---
+
+## 🧑‍💻 Profile Summary  
+
+I am a Data Analyst and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.
+
+With a strong interest in both full stack development and data analytics, I approach every project with a problem-solving mindset and a commitment to writing clean, maintainable code. I strive to build applications that are not only functional, but also meaningful and driven by data-backed insights.
+
+---
+
+## 🛠️ Technical Skills  
+
+### 💻 Programming Languages  
+- Python  
+- SQL  
+- JavaScript  
+- Java (Basics)  
+
+### 📚 Python Libraries  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- TensorFlow  
+
+### ⚙️ Frameworks & Libraries  
+- React.js (Currently Learning)  
+- Node.js (Currently Learning)  
+
+### 🗃️ Databases  
+- SQL  
+- SQL Server  
+
+---
+
+## 📊 Data Analytics & Visualization  
+
+### 📈 Visualization Tools  
+- Power BI  
+- Tableau  
+- Microsoft Excel  
+
+### 📊 Analytics Skills  
+- Data Cleaning & Transformation  
+- Dashboard Creation  
+- Job Market Trend Analysis  
+- Basic Statistical Analysis  
+- Machine Learning Fundamentals  
+
+### 🛠️ Tools  
+- Jupyter Notebook  
+- Google Colab  
+
+---
+
+## 🔧 Development Tools & Platforms  
+
+- VS Code  
+- PyCharm  
+- Git & GitHub  
+- Figma  
+- Canva  
+
+---
+
+## 🚀 What I Do  
+
+- Build and explore full stack web development projects (currently in the learning stage).  
+- Develop interactive dashboards and perform data analysis to extract meaningful insights.  
+- Designed an intermediate-level Excel interactive dashboard analyzing job market trends, documented in my repository **Job_Market_Analysis-PX--001-**.  
+- Work with SQL and SQL Server for data querying and structured data management.  
+- Apply a problem-solving mindset to both development and analytics tasks.  
+- Continuously improve my skills in React.js and Node.js to strengthen full stack capabilities.  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+### 🥇 Achievements  
+- Winner of 4 Symposium Technical Events:
+  - Front-End Website Designing  
+  - Dashboard Building  
+  - Technical Quiz  
+  - Tech-Based Competitive Event  
+- Citation Certificate for performance in Kruu Grasp Hackathon  
+- Coordinator of the Data Science Club  
+- Pursuing UG Honours Degree  
+
+### 📜 Certifications  
+- SkillRack – Python Certification  
+- SkillRack – SQL Certification  
+- LetsUpgrade – Excel Certification  
+- IBM – Python for Data Science  
+- IBM – Data Fundamentals  
+- NPTEL – Software Testing  
+
+---
+
+## 🌱 Currently Learning  
+
+- React.js  
+- Node.js  
+- Data Structures & Algorithms (DSA)  
+- Advanced Python for Data Science  
+
+---
+
+## ♟️ Fun Fact  
+
+When I’m not analyzing data or building applications, you’ll probably find me playing chess. I enjoy thinking several moves ahead, identifying patterns, and making strategic decisions — the same mindset I apply when solving problems in data analytics and software development.
 
 
 ## 🌐 Socials:
