@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Profile Summary  
+## 👨‍💻📌 Profile Summary  
 
 I am a Data Analyst and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.
 
