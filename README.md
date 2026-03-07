@@ -83,12 +83,12 @@ With a strong interest in both full stack development and data analytics, I appr
 
 
 ### 📜 Certifications  
+- IBM – Python for Data Science  
+- IBM – Data Fundamentals  
 - SkillRack – Python Certification  
 - SkillRack – SQL Certification  
 - LetsUpgrade – Excel Certification
 - LetsUpgrade – N8N Automation
-- IBM – Python for Data Science  
-- IBM – Data Fundamentals  
 - NPTEL – Software Testing  
 
 ---
