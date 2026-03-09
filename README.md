@@ -143,9 +143,10 @@ When I’m not analyzing data or building applications, you’ll probably find m
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shyam-Krishnan24&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyam-Krishnan24&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shyam-Krishnan24&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&theme=dark&layout=compact)
 
 
 # 🧠 LeetCode Stats
