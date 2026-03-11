@@ -144,10 +144,6 @@ When I’m not analyzing data or building applications, you’ll probably find m
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyam-Krishnan24&theme=dark&include_all_commits=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Krishnan24&layout=compact&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Krishnan24&theme=dark)
 
 
