@@ -102,9 +102,9 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ---
 
-## ♟️ Fun Fact  
+> ♟️ Fun Fact  
 
-When I’m not analyzing data or building applications, you’ll probably find me playing chess. I enjoy thinking several moves ahead, identifying patterns, and making strategic decisions — the same mindset I apply when solving problems in data analytics and software development.
+> When I’m not analyzing data or building applications, you’ll probably find me playing chess. I enjoy thinking several moves ahead, identifying patterns, and making strategic decisions — the same mindset I apply when solving problems in data analytics and software development.
 
 
 ## 🌐 Socials:
