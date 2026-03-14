@@ -104,7 +104,7 @@ With a strong interest in both full stack development and data analytics, I appr
 
 > ##  ♟️ Fun Fact:
 > Outside of coding and data analytics, I enjoy playing chess. Currently **1050+ Blitz ELO**, practicing strategy both on the board and in code.
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-shyaam-krishnan-232282293/) 
