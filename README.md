@@ -168,4 +168,4 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## Top Repo
 
-![Job-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Job_Market_Analysis-PX--001-&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff) ![Health Innovator](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Health_Innovator&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Job-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Job_Market_Analysis-PX--001-&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff) ![Health Innovator](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Health_Innovator&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff) ![Innovates](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Innovates&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
