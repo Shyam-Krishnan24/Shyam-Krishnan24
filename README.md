@@ -145,6 +145,7 @@ With a strong interest in both full stack development and data analytics, I appr
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Krishnan24&theme=dark)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Shyam-Krishnan24&show_icons=true&theme=radical)
 
 
 # 🧠 LeetCode Stats
