@@ -149,7 +149,7 @@ With a strong interest in both full stack development and data analytics, I appr
 
 
 # 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam24?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shyaam24?theme=dark&font=Baloo&ext=contest&v=2)
 
 # HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alpharsk7)
