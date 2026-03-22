@@ -108,8 +108,8 @@ With a strong interest in both full stack development and data analytics, I appr
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](<img src="https://skillicons.dev/icons?i=linkedin" />)](https://www.linkedin.com/in/r-shyaam-krishnan/) 
-[![Email](<img src="https://skillicons.dev/icons?i=email" />)](mailto:r.shyamkrishnan24@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/r-shyaam-krishnan/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:r.shyamkrishnan24@gmail.com)
 
 # 💻 Tech Stack:
 
