@@ -71,11 +71,12 @@ With a strong interest in both full stack development and data analytics, I appr
 ## 🏆 Achievements & Certifications  
 
 ### 🥇 Achievements  
-- Winner of 4 Symposium Technical Events:
+- Winner of 5 Symposium Technical Events:
   - Ist prize in Pixel Perfect event at Trojans (Chennai Institue of Technology)
   - IInd prize in Data Whiz event at Invente'25 (Shiv Nadar University)
   - Ist prize in Code Board event at CONDSCENA–CYBERTRIX (St. Joseph Engineering College) 
-  - Ist Prize in MindSparkX event at TechXAura symposium (Sriram Engineering College)   
+  - Ist Prize in MindSparkX event at TechXAura symposium (Sriram Engineering College)
+  - IInd Prize in BorderDecrypt event at Celista'26 symposium (Meenakshi Sundararajan Engineering College)
 - Citation Certificate for performance in Kruu Grasp Hackathon'26 
 - Coordinator of the Data Science Club  
 - Pursuing UG Honours Degree
