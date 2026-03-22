@@ -115,7 +115,7 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## I Code in
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,Python,MySQL,SQLite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,mysql,sqlite" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
