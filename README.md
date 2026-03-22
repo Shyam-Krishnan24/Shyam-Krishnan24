@@ -125,11 +125,11 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## Tools I Use
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,framer,figma,canva" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,canva" />
 
 ## Libraries And Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,matpotlib,numpy,tensorflow,pandas,opencv,scikit-learn" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,matpotlib,numpy,tensorflow,pandas,opencv,scikit-learn,firebase" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
