@@ -172,8 +172,17 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## 📊 Featured Projects
 
-![Job Market Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Job_Market_Analysis-PX--001-&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
+## 🚀 Featured Projects
 
-![Health Innovator](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Health_Innovator&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+### 📊 Job Market Analysis
+[![Job Market Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Job_Market_Analysis-PX--001-&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Shyam-Krishnan24/Job_Market_Analysis-PX--001-)
 
-![Innovates](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Innovates&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+---
+
+### 🏥 Health Innovator
+[![Health Innovator](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Health_Innovator&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=0)](https://github.com/Shyam-Krishnan24/Health_Innovator)
+
+---
+
+### 💡 Innovates
+[![Innovates](https://github-readme-stats.vercel.app/api/pin/?username=Shyam-Krishnan24&repo=Innovates&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=0)](https://github.com/Shyam-Krishnan24/Innovates)
