@@ -77,6 +77,7 @@ With a strong interest in both full stack development and data analytics, I appr
   - Ist prize in Code Board event at CONDSCENA–CYBERTRIX (St. Joseph Engineering College) 
   - Ist Prize in MindSparkX event at TechXAura symposium (Sriram Engineering College)
   - IInd Prize in BorderDecrypt event at Celista'26 symposium (Meenakshi Sundararajan Engineering College)
+- Domain Winner for EdTech Domain at Craftathon Hackathon (Gandhinagar University)
 - Citation Certificate for performance in Kruu Grasp Hackathon'26 
 - Coordinator of the Data Science Club  
 - Pursuing UG Honours Degree
