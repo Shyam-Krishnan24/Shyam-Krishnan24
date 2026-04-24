@@ -6,7 +6,7 @@
 
 ## 👨‍💻📌 Profile Summary  
 
-I am a Data Analyst and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.
+I am a Data Scientist and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.
 
 With a strong interest in both full stack development and data analytics, I approach every project with a problem-solving mindset and a commitment to writing clean, maintainable code. I strive to build applications that are not only functional, but also meaningful and driven by data-backed insights.
 
