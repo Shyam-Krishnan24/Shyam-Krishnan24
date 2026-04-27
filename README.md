@@ -100,7 +100,7 @@ With a strong interest in both full stack development and data analytics, I appr
 - React.js  
 - Node.js  
 - Data Structures & Algorithms (DSA)  
-- Advanced Python for Data Science  
+
 
 ---
 
