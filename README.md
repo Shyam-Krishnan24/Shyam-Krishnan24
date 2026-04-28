@@ -130,7 +130,7 @@ With a strong interest in both full stack development and data analytics, I appr
 
 ## Libraries And Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,matpotlib,numpy,tensorflow,pandas,opencv,scikit-learn,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,matpotlib,numpy,tensorflow,pandas,opencv,scikit-learn,firebase,bootstrap" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
