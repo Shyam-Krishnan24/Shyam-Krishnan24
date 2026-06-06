@@ -88,7 +88,9 @@ Open to Work, Internships, projects, and conversations. Let's connect.
 
 ### 📜 Certifications  
 - IBM – Python for Data Science  
-- IBM – Data Fundamentals  
+- IBM – Data Fundamentals
+- Meta -- Introduction to Front-End Development
+- NPTEL -- Data Analysis & Decision Making
 - SkillRack – Python Certification  
 - SkillRack – SQL Certification  
 - LetsUpgrade – Excel Certification
