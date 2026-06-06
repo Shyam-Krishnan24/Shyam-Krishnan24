@@ -6,9 +6,11 @@
 
 ## 👨‍💻📌 Profile Summary  
 
-I am a Data Scientist and Full Stack Developer with a growing focus on building reliable, scalable, and efficient software solutions. I enjoy working across the entire development lifecycle — from analyzing data and understanding business problems to designing and developing practical applications.
+As a fresher in Data Science and Front-End Development and Database Engineer, I work across the data and design layer — exploring raw data, building predictive models, and developing clean front-end interfaces that make those insights easy to understand. I turn data into decisions and ideas into visual products.
 
-With a strong interest in both full stack development and data analytics, I approach every project with a problem-solving mindset and a commitment to writing clean, maintainable code. I strive to build applications that are not only functional, but also meaningful and driven by data-backed insights.
+My skill set includes Python, SQL, React, JavaScript, Power BI, Excel, Google Sheets and Tableau. I've worked on RAG systems, EDA, feature engineering, Data Science / ML lifecycle and dashboards that make complex data simple and actionable.
+I'm not just looking for a job — I'm looking to build things that matter, collaborate with people who care about quality, and grow fast.
+Open to Work, Internships, projects, and conversations. Let's connect.
 
 ---
 
