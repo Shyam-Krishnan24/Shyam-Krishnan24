@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm R. Shyaam Krishnan! – Data Scientist | Software Engineer
 🚀 Open to Internships  
+🚀 Open to Work
+
 
 ---
 
