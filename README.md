@@ -8,11 +8,11 @@
 
 ## 👨‍💻📌 Profile Summary  
 
-As a fresher in Data Science and Front-End Development and Database Engineer, I work across the data and design layer — exploring raw data, building predictive models, and developing clean front-end interfaces that make those insights easy to understand. I turn data into decisions and ideas into visual products.
+I’m a Data & AI professional with hands-on experience in Data Analytics, Data Science, Machine Learning, and Generative AI, focused on transforming data into actionable insights and intelligent solutions. Recently worked with BlueStock Fintech as a Data Analyst, where I worked with data analysis, EDA, data cleaning, SQL, Python, visualization, dashboards, and deriving business insights from financial data.
 
-My skill set includes Python, SQL, React, JavaScript, Power BI, Excel, Google Sheets and Tableau. I've worked on RAG systems, EDA, feature engineering, Data Science / ML lifecycle and dashboards that make complex data simple and actionable.
-I'm not just looking for a job — I'm looking to build things that matter, collaborate with people who care about quality, and grow fast.
-Open to Work, Internships, projects, and conversations. Let's connect.
+My technical expertise includes Python, SQL, Statistics, Pandas, NumPy, Machine Learning, Deep Learning, Feature Engineering, Predictive Modeling, Power BI, Tableau, Excel, MySQL, and Jupyter Notebook. I also work with Generative AI, LLMs, RAG, Prompt Engineering, Embeddings, Vector Databases, and AI application development.
+
+I’m interested in building scalable, data-driven and AI-powered solutions across Data Analyst, Data Scientist, AI Engineer, ML Engineer, and GenAI roles. Open to opportunities, projects, internships, and collaborations.
 
 ---
 
@@ -81,6 +81,7 @@ Open to Work, Internships, projects, and conversations. Let's connect.
   - Ist prize in Code Board event at CONDSCENA–CYBERTRIX (St. Joseph Engineering College) 
   - Ist Prize in MindSparkX event at TechXAura symposium (Sriram Engineering College)
   - IInd Prize in BorderDecrypt event at Celista'26 symposium (Meenakshi Sundararajan Engineering College)
+  - IInd prize in Data Whiz event at Invente'26 (Shiv Nadar University)
 - Domain Winner for EdTech Domain at Craftathon Hackathon (Gandhinagar University)
 - Citation Certificate for performance in Kruu Grasp Hackathon'26 
 - Coordinator of the Data Science Club  
@@ -103,8 +104,9 @@ Open to Work, Internships, projects, and conversations. Let's connect.
 
 ## 🌱 Currently Learning  
 
-- React.js  
-- Node.js  
+- Advanced ML   
+- Deep Learning
+- GenAI 
 - Data Structures & Algorithms (DSA)  
 
 
